@@ -1,3 +1,4 @@
+<a target="_blank" href="https://wakatime.com/Stualyttle"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=grephic&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Stats"></a>
 <h1 align="center">Hi 👋, I'm Emma Van der Haeghen</h1>
 <h3 align="center">A passionate frontend designer and developer from Belgium</h3>
 
