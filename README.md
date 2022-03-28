@@ -1,16 +1,14 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pgm-emmavanderhaeghen&bg_color=1d1f21&text_color=c9cacc&show_icons=true" alt="Main GitHub stats">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-emmavanderhaeghen&layout=compact&bg_color=1d1f21&text_color=c9cacc" alt="Most used languages on github">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=grephic&bg_color=1d1f21&text_color=c9cacc" alt="Wakatime Stats">
-<h1>Hi 👋, I'm Emma Van der Haeghen</h1>
+<h1>Hi, I'm Emma Van der Haeghen 👋</h1>
 <h3>A passionate frontend designer and developer from Belgium</h3>
 
-- 🔭 I’m currently working on **many different projects**
+- 🔭 I’m currently working on **freelance design and development projects**
 
-- 🌱 I’m currently learning **Scss, Javascript (advanced) and databases**
+- 🌱 I’m currently learning **Scss, Eleventy and other templating engines**
 
 - 👯 I’m looking to collaborate on **web design and development**
-
-- 💬 Ask me about **design**
 
 - 📫 How to reach me **vanderhaeghenemma@gmail.com**
 
